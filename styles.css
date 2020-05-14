@@ -1,0 +1,60 @@
+a.nav-link{
+    padding: 5px;
+    font-size: small;
+}
+a.nav-link:hover{
+    text-decoration: underline;
+}
+#app{
+    opacity: 65%;
+}
+#app:hover{
+    opacity: 100%;
+}
+ul.nav{
+    margin-top: 10px;
+    margin-right: 25px;
+}
+img.d-block{
+    height: 220px;
+    position: relative;
+    top: 45px;
+    width: auto;
+}
+input.form-control{
+    border: none;
+}
+input.form-control:focus{
+    padding: none;
+}
+form.mx-auto{
+    width: 35%;
+}
+span.icon{
+    position: relative;
+    top: 7px;
+    opacity: 50%;
+}
+ul.bottom{
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    margin: 0;
+    color: slategray;
+}
+div#group{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+a#first{
+    padding:20px;
+}
+a.bot{
+    padding-left: 20px;
+}
+a.botr{
+    padding-right: 20px;
+}
+a.bot:hover, a.botr:hover{
+    text-decoration: underline;
+}
